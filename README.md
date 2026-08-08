@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a00ff,100:00ff9c&height=220&section=header&text=Rafsha%20Khaisar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=aka%20Raven-xox%20%7C%20Cybersecurity%20%26%20Code&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=Just+a+girl+trying+to+compile+her+way+through+life+%F0%9F%92%BB;Debugging+what+worked+yesterday+%F0%9F%90%9E;Breaking+systems+to+learn+how+to+protect+them+%F0%9F%94%90;3rd+Sem+CSE+(Cybersecurity)+Student+%F0%9F%8E%93;Python+%2B+Java+%2B+Ethical+Hacking+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines= Just+a+girl+trying+to+compile+her+way+through+life+%F0%9F%92%BB;Debugging+what+worked+yesterday+%F0%9F%90%9E;Breaking+systems+to+learn+how+to+protect+them+%F0%9F%94%90;3rd+Sem+CSE+(Cybersecurity)+Student+%F0%9F%8E%93;Python+%2B+Java+%2B+Ethical+Hacking+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake contribution animation"/>
 
@@ -41,7 +41,7 @@ class Rafsha:
 
 <br>
 
-## 🧰 Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,linux&theme=dark&perline=8" alt="skills"/>
@@ -61,7 +61,7 @@ class Rafsha:
 
 <br>
 
-## 📌 Featured Builds
+##  Featured Builds
 
 <table>
 <tr>
