@@ -1,4 +1,4 @@
-h1 align="center">Hi there, I'm Rafsha 👋</h1>
+h1 align="center"> Hi there, I'm Rafsha 👋</h1>
 <h3 align="center">Just a girl trying to compile her way through life & debug what worked yesterday.</h3>
 
 <p align="center">
@@ -7,28 +7,26 @@ h1 align="center">Hi there, I'm Rafsha 👋</h1>
 
 ---
 
-### 🕵️‍♀️ About Me
+###  About Me
 
-- 🎓 3rd-semester **B.E. in Computer Science & Engineering (Cybersecurity)** at Nawab Shah Alam Khan College of Engineering and Technology, Hyderabad
-- 🔐 Deep interest in **cybersecurity, ethical hacking, and how systems actually break (and how to stop it)**
-- 🧠 I learn best by **building and breaking things**, not just reading about them
-- 🛠️ Currently leveling up in **Python, Java, computer vision, and Git/GitHub** through hands-on projects
-- 📍 Based in Hyderabad, Telangana, India
-- 💬 Ask me about Python scripting, Tkinter GUIs, or turtle-graphics-powered math art
+-Curious about cybersecurity, ethical hacking, and the beautiful chaos of figuring out how systems break — and how to make them harder to break.
+-I learn best by building things, breaking them, fixing them, and occasionally wondering why they worked five minutes ago.
+-Currently messing around with Python, Java, computer vision, Git/GitHub, and whatever else catches my curiosity.
+-Building projects, collecting bugs, and slowly turning “wait, how does this work?” into “ohhh, I broke it.”
+-Based in Hyderabad, India 🇮🇳
 
 ---
 
-### 🧰 Skills & Tools
+###  Skills & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,linux" alt="skills" />
 </p>
-
-**Languages:** English (Fluent) · Urdu (Conversational)
+· Urdu (Conversational)
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -40,7 +38,7 @@ h1 align="center">Hi there, I'm Rafsha 👋</h1>
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Raven-xox&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rafsha's GitHub stats" />
